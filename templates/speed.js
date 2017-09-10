@@ -1,4 +1,4 @@
 // script code to increase loading speed
-$(document).ready(function(){
-$('body').hide();
-});
+// $(document).ready(function(){
+// $('body').hide();
+// });
